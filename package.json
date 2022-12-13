@@ -1,0 +1,26 @@
+{
+  "name": "responsive-portfolio-website-jhondoe",
+  "version": "1.0.0",
+  "description": "A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name and a great image. Then the About section displays more information about you. Then the list of skills it offers. It also has a section where it shows some recent work. And at the bottom it has contact information and a form, and at the bottom a footer.",
+  "main": "index.js",
+  "scripts": {
+    "iniciar": "nodemon connect.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedimcode/responsive-portfolio-website-JhonDoe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bedimcode/responsive-portfolio-website-JhonDoe/issues"
+  },
+  "homepage": "https://github.com/bedimcode/responsive-portfolio-website-JhonDoe#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "cors": "^2.8.5",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
